@@ -57,6 +57,9 @@
 📎 **Ссылка на репозиторий:**  
 [GitHub - kinopoisk-autotests](https://github.com/UshkvES/kinopoisk-autotests)
 
+📘 **Там же в репозитории:**  
+[Кейс с описанием задачи, подхода и выводов →](./CASE.md)
+
 ---
 
 ## Связь со мной
