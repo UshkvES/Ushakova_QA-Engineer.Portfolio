@@ -63,7 +63,7 @@
 
 *   **MAX:** [+79027265140](https://max.ru/u/f9LHodD0cOJMisX13iUB2aze6qfEZn7_IsOfK5YJAvkzmSIXJ2ghVn7DAqw)
 *   **Telegram:** [@Ushkv_ES](https://t.me/Ushkv_ES)
-*   **VK:** (https://vk.com/ushkv_es)
+*   **VK:** https://vk.com/ushkv_es
 *   **Почта:** smagina.elya@gmail.com
 
 ---
